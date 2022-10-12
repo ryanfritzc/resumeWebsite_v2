@@ -1,0 +1,9 @@
+color pallet codes
+#0D3580 - blue
+#282828 - grey
+#AF0C15 - red
+
+reference site
+https://colorlib.com/wp/html5-resume-templates/
+
+
